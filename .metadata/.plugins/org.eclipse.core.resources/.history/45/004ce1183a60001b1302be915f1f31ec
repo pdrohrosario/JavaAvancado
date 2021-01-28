@@ -1,0 +1,26 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Olá, mundo!");
+		
+		//Variavel:Tipo, valor e endereco;
+		int idade = 25;
+		double altura = 1.6822;
+		char sexo = 'F';
+		boolean legal = true;
+		byte n1 = 127;
+		short n2 = 32767;
+		long n3 = 1234567821;
+		float n4 = (float)122.2;
+		
+		//CamelCase
+		int _5minutos;
+		int salarioFuncionario;
+		
+		System.out.println(legal);
+		System.out.println(altura);
+	}
+
+}

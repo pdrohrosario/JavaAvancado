@@ -1,0 +1,18 @@
+
+public class Main3 {
+
+	private static double A;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double x = 9.0;
+		
+		double A = Math.sqrt(x);
+		System.out.println("Raiz quadrada de " + x + " é " + A + ".");
+		
+	    double B = Math.pow(x, 2);
+		System.out.println(+ x +" elevado ao quadrado é " + B);
+		
+	}
+
+}
