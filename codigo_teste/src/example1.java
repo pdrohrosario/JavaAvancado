@@ -10,11 +10,11 @@ public class example1 {
 		
 		
 		double area = largura * comprimento;
-		double metroQuadrado = sc.nextDouble();
-		double precoMetroQuadrado = area * metroQuadrado;
+		//double metroQuadrado = sc.nextDouble();
+		//double precoMetroQuadrado = area * metroQuadrado;
 		
 		System.out.println("A area do terreno: "+area + "m².");
-		System.out.println("Preço do terreno: R$"+precoMetroQuadrado);
+		//System.out.println("Preço do terreno: R$"+precoMetroQuadrado);
 		
 	}
 
